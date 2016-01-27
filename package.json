@@ -1,0 +1,25 @@
+{
+  "name": "auralhappiness.com",
+  "version": "0.0.1",
+  "private": true,
+  "description": "auralhappiness.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frosten/auralhappiness.com.git"
+  },
+  "dependencies": {
+	  "request": "2.51.0",
+	  "tough-cookie": "0.12.1",
+	  "vash": "0.7.12-1"
+  },
+  "author": "S. Ferit Arslan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frosten/auralhappiness.com/issues"
+  },
+  "homepage": "https://github.com/frosten/auralhappiness.com#readme"
+}
